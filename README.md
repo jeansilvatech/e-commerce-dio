@@ -1,5 +1,12 @@
 # Ecommerce
 
+## Desafio de Projeto do Geração Tech Unimed-BH | Fullstack na DIO.
+## Como criar um front-end de um e-commerce utilizando Angular
+
+<div align="center" style="display: inline_block">
+<img src="https://user-images.githubusercontent.com/23384348/172906479-e27d4314-2e91-471c-8f83-61aebc497cfa.png" alt="Geração Tech Unimed-BH" width="200"/>
+</div>
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.29.
 
 ## Development server
